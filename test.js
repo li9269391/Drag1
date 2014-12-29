@@ -1,6 +1,0 @@
-/**
- * Created by Administrator on 2014/12/29.
- */
-function test() {
-
-}
